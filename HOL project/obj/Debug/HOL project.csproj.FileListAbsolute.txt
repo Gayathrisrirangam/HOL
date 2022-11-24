@@ -1,0 +1,72 @@
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\HOL project.dll.config
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\HOL project.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\HOL project.pdb
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\csc.exe
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\csc.exe.config
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\csc.rsp
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\csi.exe
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\csi.exe.config
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\csi.rsp
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.Managed.Core.targets
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\Microsoft.Win32.Primitives.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.AppContext.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Collections.Immutable.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Console.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Globalization.Calendars.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.IO.Compression.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.IO.Compression.ZipFile.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.IO.FileSystem.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Net.Http.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Net.Sockets.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Reflection.Metadata.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Threading.Tasks.Extensions.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.ValueTuple.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Xml.XmlDocument.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Xml.XPath.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\vbc.exe
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\vbc.exe.config
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\vbc.rsp
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\VBCSCompiler.exe
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\roslyn\VBCSCompiler.exe.config
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\Microsoft.Web.Infrastructure.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Helpers.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Mvc.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Razor.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Webpages.Deployment.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Webpages.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Webpages.Razor.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Razor.xml
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Webpages.xml
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Webpages.Deployment.xml
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Webpages.Razor.xml
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Helpers.xml
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\System.Web.Mvc.xml
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\obj\Debug\HOL project.csproj.AssemblyReference.cache
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\obj\Debug\HOL project.csproj.CoreCompileInputs.cache
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\obj\Debug\HOL project.csproj.CopyComplete
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\obj\Debug\HOL project.dll
+H:\I -Transform Built .Net core Azure\C#\HOL project\HOL project\obj\Debug\HOL project.pdb
